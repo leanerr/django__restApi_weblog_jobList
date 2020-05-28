@@ -1,6 +1,6 @@
 # django_blog using rest_framework
 the api for create ,update , delete article is ready!
-the api for create journalist is ready , and also there is a api for see a particular journalist articlss list .
+the api to create journalist is ready , and also there is an api for see a particular journalist articlss list .
 the api for the job opportunity from companies is ready , 
 also there is an api to create job opportunity and,
  one api to see the list of the job opportunities !
